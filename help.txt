@@ -1,0 +1,1 @@
+//MainActivity.java is for load JQH on your android app. for More Read this. jqh.loxblig.com/page/run-at-android-studio.
