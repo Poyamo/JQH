@@ -1,5 +1,5 @@
 # JQH Programming language
-jqh programming language v1.5 is here. JQH write by Python, Java , Js , HTML5, and css. You can download Android Compiler from  "jqh.loxblog.com/page/download_compiler/"
+jqh programming language v1.5 is here. JQH write by Python, Java , Js , HTML5, and css. You can download Android Compiler from <a href="http://www.jqh.loxblog.com/page/download-compiler-android">Here.</a>
 JQH is on beta and have a bit commend fro run.
 Hello world programming like this:
 
