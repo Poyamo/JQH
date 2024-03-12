@@ -11,4 +11,4 @@ write("helloworld");
 
 
 
-for learn you can go to <a href="http://www.jqh loxblog.com">jqh.loxblog.com</a>.
+for learn you can go to <a href="http://www.jqh .loxblog.com">jqh.loxblog.com</a>.
