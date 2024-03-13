@@ -1,0 +1,8 @@
+var m="hi"
+var s = 78
+begin(
+write(m),
+write(" "),
+write(m),
+write(" "),
+write(s));
