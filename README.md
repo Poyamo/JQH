@@ -1,5 +1,10 @@
+<div id="update">
+  <center>
+    <h3>JQH Version 1.7 BETA Out Now! <a href="http://jqh.loxblog.com/page/version1-7"> Learn More.</a></h3>
+  </center>
+</div>
 # JQH Programming language
-jqh programming language v1.5 is here. JQH write by Python, Java , Js , HTML5, and css. You can download Android Compiler from <a href="http://www.jqh.loxblog.com/page/download-compiler-android">Here.</a>
+jqh programming language v1.7 is here. JQH write by Python, Java , Js , HTML5, and css. You can download Android Compiler from <a href="http://www.jqh.loxblog.com/page/download-compiler-android">Here.</a>
 JQH is on beta and have a bit commend fro run.
 Hello world programming like this:
 
