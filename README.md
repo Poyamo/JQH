@@ -3,12 +3,12 @@
   <center>
     <h3>JQH Version 1.7 BETA Out Now! <a href="http://jqh.loxblog.com/page/version1-7"> Learn More.</a></h3>
   </center>
-  <div id="update">What's new at v1.7?</div>
+  <h1 id="update">What's new at v1.7?</h1>
   for start coding need start with begin() code, like hello-world.jqh file. (for see , this at file).
-<div id="update">New Method for add var , int:</div>
+<h1 id="update">New Method for add var, int:</h1>
   for add before begin() code you need. (for see, newvar.jqh file).
 </div>
-<div id="update">JQH Programming language</div>
+<h1 id="update">JQH Programming language</h1>
 jqh programming language v1.7 is here. JQH write by Python, Java , Js , HTML5, and css. You can download Android Compiler from <a href="http://www.jqh.loxblog.com/page/download-compiler-android">Here.</a>
 JQH is on beta and have a bit commend fro run.
 Hello world programming like this:
