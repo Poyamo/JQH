@@ -1,4 +1,5 @@
-
+<h2>A Tip:</h2>
+if you download .jqh file from Github, download with .txt format, after download remove .txt format.
 <div id="update">
   <center>
     <h3>JQH Version 1.7 BETA Out Now! <a href="http://jqh.loxblog.com/page/version1-7"> Learn More.</a></h3>
