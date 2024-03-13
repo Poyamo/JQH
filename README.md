@@ -1,3 +1,8 @@
+<style>
+  #update{
+    background-color: hsl(36.8,83.6%,51.4%);
+    
+</style>
 <div id="update">
   <center>
     <h3>JQH Version 1.7 BETA Out Now! <a href="http://jqh.loxblog.com/page/version1-7"> Learn More.</a></h3>
