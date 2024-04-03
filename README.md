@@ -1,3 +1,4 @@
+jqh not any more support.
 <img src="jqh_PL_logo_v1.7.jpg"/>
 <h2>A Tip:</h2>
 if you download .jqh file from Github, download with .txt format, after download remove .txt format.
